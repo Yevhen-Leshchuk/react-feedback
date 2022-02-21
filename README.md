@@ -1,1 +1,1 @@
-# react-feedback
+Виджет отзывов

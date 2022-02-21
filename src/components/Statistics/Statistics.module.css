@@ -1,0 +1,22 @@
+.statistics {
+  display: flex;
+  justify-content: center;
+  min-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.item {
+  font-size: 30px;
+  font-weight: 500;
+  text-transform: capitalize;
+  color: #808080;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.value {
+  margin-left: 10px;
+}
