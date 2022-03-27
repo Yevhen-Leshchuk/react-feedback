@@ -2,7 +2,6 @@ import PropTypes from 'prop-types';
 import s from './Statistics.module.css';
 
 const Statistics = props => {
-  console.log(props);
   const stats = Object.keys(props);
 
   return (
